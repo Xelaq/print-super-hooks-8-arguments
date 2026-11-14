@@ -4,6 +4,8 @@ A replacement for the standard hook library in GMOD, built on top of srlion's ho
 
 Optimized and extended by the community — **print (super koders)!**
 
+WARNING: THIS IS THE 8-ARGUMENT VERSION FOR THE HOOK CALL; IF YOU NEED MORE ARGUMENTS IN THE CALL, USE THE 16-ARGUMENT VERSION - https://github.com/Xelaq/print-super-hooks-16-arguments
+
 ## Additional Features ##
 
 Supports an object as the identifier; if the object is deleted, the hook is deleted as well. The object itself is returned as the first argument of the function (see the example below).
